@@ -27,8 +27,7 @@ body {
     width: 80%;
     height: 2rem;
     margin: 0 auto 1rem auto;
-    border-radius: 5px;
-    cursor: pointer; }
+    border-radius: 5px; }
     .slider__search-bar-wrapper::before {
       content: "\f002";
       position: absolute;
@@ -40,8 +39,6 @@ body {
       height: 100%;
       font-weight: 900;
       font-family: "Font Awesome 5 Free"; }
-    .slider__search-bar-wrapper:hover {
-      color: blue; }
   .slider__search-bar {
     display: block;
     box-sizing: border-box;
